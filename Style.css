@@ -1,0 +1,74 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f8f9fa;
+}
+
+/* Search Bar */
+.search-bar input {
+  width: 350px;
+}
+
+/* Navbar Logo */
+.navbar-brand img {
+  width: 120px;
+}
+
+/* Navigation Buttons */
+.nav-buttons button {
+  margin-left: 10px;
+}
+
+/* Carousel Image */
+.carousel img {
+  height: 400px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+/* Footer */
+footer {
+  background-color: #172337;
+  color: white;
+  padding: 40px 0 0 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+footer h5 {
+  font-size: 18px;
+  margin-bottom: 15px;
+  color: #ffeb3b;
+}
+
+footer a {
+  color: #ccc;
+  text-decoration: none;
+  font-size: 14px;
+  transition: color 0.3s;
+}
+
+footer a:hover {
+  color: #fff;
+}
+
+.footer-bottom {
+  background-color: #0d1930;
+  text-align: center;
+  padding: 15px 0;
+  margin-top: 20px;
+  border-top: 1px solid #26314d;
+}
+
+.footer-bottom p {
+  margin: 0;
+  font-size: 15px;
+  color: #ddd;
+}
+
+.footer-bottom span {
+  color: #2196f3;
+  font-weight: 600;
+}
+
+.footer-bottom strong {
+  color: #ffeb3b;
+  font-weight: 600;
+}
